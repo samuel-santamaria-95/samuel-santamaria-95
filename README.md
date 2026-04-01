@@ -1,6 +1,6 @@
 <!-- Encabezado animado -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=185FA5&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Samuel+%F0%9F%91%8B;Sr.+Frontend+Engineer+%7C+Full+Stack;Maestrante+en+Inteligencia+Artificial;Building+things+that+actually+work+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=185FA5&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Samuel+%F0%9F%91%8B;Sr.+Frontend+Engineer+%7C+Full+Stack;Maestria+en+Inteligencia+Artificial;Building+things+that+actually+work+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 ---
@@ -9,17 +9,7 @@
 
 Soy ingeniero de software con **8+ años** construyendo plataformas que la gente usa de verdad — desde sistemas electorales de operación crítica hasta dashboards analíticos para una de las empresas de manufactura más grandes del mundo (**CEMEX**).
 
-Me muevo cómodo entre el frontend y el backend, aunque mi hogar natural son las interfaces complejas, los componentes reutilizables y la integración con APIs. Actualmente curso una **Maestría en Inteligencia Artificial** y estoy explorando cómo conectar lo que sé construir con lo que la IA puede hacer.
-
-```typescript
-const samuel = {
-  ubicacion:  "León, Guanajuato 🇲🇽",
-  trabajando: "Sr. Frontend Developer @ EPAM NEORIS (cliente: CEMEX)",
-  estudiando: "Maestría en Inteligencia Artificial — UNIR México",
-  intereses:  ["NLP", "Sistemas cognitivos", "Automatización inteligente"],
-  fun_fact:   "Construí sistemas para jornadas electorales. Alta presión, cero margen de error 🗳️"
-};
-```
+Me muevo cómodo entre el frontend y el backend, los componentes reutilizables y la integración con APIs. Actualmente curso una **Maestría en Inteligencia Artificial** y estoy explorando cómo conectar lo que sé construir con lo que la IA puede hacer.
 
 ---
 
@@ -60,12 +50,12 @@ const samuel = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=default&include_all_commits=true&count_private=true&title_color=185FA5&icon_color=185FA5&border_color=e5e7eb"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&langs_count=7&theme=default&title_color=185FA5&border_color=e5e7eb"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuel-santamaria-95&show_icons=true&theme=default&include_all_commits=true&count_private=true&title_color=185FA5&icon_color=185FA5&border_color=e5e7eb"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-santamaria-95&layout=compact&langs_count=7&theme=default&title_color=185FA5&border_color=e5e7eb"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=default&ring=185FA5&fire=185FA5&currStreakLabel=185FA5&border=e5e7eb" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samuel-santamaria-95&theme=default&ring=185FA5&fire=185FA5&currStreakLabel=185FA5&border=e5e7eb" />
 </div>
 
 ---
@@ -89,13 +79,8 @@ const samuel = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_USUARIO)
-[![Email](https://img.shields.io/badge/Email-185FA5?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:samuel_eduardo.95@outlook.com)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/samuel-eduardo-santamar%C3%ADa-mena-16b3a4126)
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&color=185FA5&style=flat-square&label=Visitas+al+perfil" />
-</div>
