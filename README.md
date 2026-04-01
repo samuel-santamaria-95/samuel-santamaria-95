@@ -48,11 +48,6 @@ Me muevo cómodo entre el frontend y el backend, los componentes reutilizables y
 ---
 
 ## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=default&include_all_commits=true&count_private=true&title_color=185FA5&icon_color=185FA5&border_color=e5e7eb"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&langs_count=7&theme=default&title_color=185FA5&border_color=e5e7eb"/>
-</div>
  
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=default&ring=185FA5&fire=185FA5&currStreakLabel=185FA5&border=e5e7eb" />
